@@ -1,30 +1,31 @@
 # Sentiment-Analysis-of-Tweets
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0001](https://github.com/user-attachments/assets/7e7a7e8d-c207-43b5-9590-95fb6ddc70d3)
+### This project performs sentiment analysis on tweets related to distance education, stored in a MongoDB database.
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0001](https://github.com/user-attachments/assets/4cb63f32-e05c-470b-bb72-5187dfcfed6d)
 
 ## PLAN
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0002](https://github.com/user-attachments/assets/6e777c08-65aa-4042-adf4-331a57fb89b5)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0002](https://github.com/user-attachments/assets/42daec2d-6902-4f7c-ae49-13b635be9b97)
 
 ## Introduction
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0003](https://github.com/user-attachments/assets/2e9cfc6c-913a-49bf-bbc1-c3e98f622881)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0003](https://github.com/user-attachments/assets/7cb55a86-8770-4cb9-90bd-e9282e17c755)
 
 ## Connecting To MongoDB
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0004](https://github.com/user-attachments/assets/d38c660b-3304-4a4e-af0f-ca0fafba6ddc)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0004](https://github.com/user-attachments/assets/24f7f427-774e-40cc-9d4f-35b5b1f32d4e)
 
 ## Data Cleaning
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0005](https://github.com/user-attachments/assets/ddd2e753-5809-48b6-8955-664612880880)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0005](https://github.com/user-attachments/assets/780bdf0c-b141-4cf6-9eac-d5afbe4bcbf7)
 
 ## Sentiment Analysis
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0006](https://github.com/user-attachments/assets/56390a58-f202-4b2d-a577-36bce4b90762)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0006](https://github.com/user-attachments/assets/dd135d51-b647-48f7-9fd2-f249561d2c79)
 
 ## Visualization
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0007](https://github.com/user-attachments/assets/bae3a451-fe47-42ed-aa51-64722fec9bc9)
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0008](https://github.com/user-attachments/assets/64ab282c-6c20-43dc-ae8c-25f1f2c931fa)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0007](https://github.com/user-attachments/assets/154fa8dd-d325-4a8d-a5c0-f11de51b133f)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0008](https://github.com/user-attachments/assets/ec37ba2d-b0dc-42a4-8291-2f6bbfd9b1aa)
 
 ## Storage Of Results
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0009](https://github.com/user-attachments/assets/956e39b6-bbc0-486e-a9e4-d15c14deddcc)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0009](https://github.com/user-attachments/assets/1aec4554-71e9-4bea-81da-5cf99abcfd98)
 
 ## Conclusion
-![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0010](https://github.com/user-attachments/assets/f37d7b2b-6941-4cba-bcc7-a07e91351748)
+![Analyse de Sentiment des Tweets sur l'Enseignement à Distance_page-0010](https://github.com/user-attachments/assets/16e17b64-61be-4e94-a740-bbb039e9212c)
 
 ## Links
 
